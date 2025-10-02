@@ -1,0 +1,5 @@
+Installer dépendances
+
+python -m venv .venv
+source .venv/bin/activate    # Windows: .venv\Scripts\activate
+pip install pandas sqlalchemy psycopg2-binary python-dotenv

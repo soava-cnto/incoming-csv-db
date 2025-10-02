@@ -1,0 +1,19 @@
+Date_Appel,"Heure_Appel","indice","Duree_prise_en_Charge","DUREE_POST-TRAVAIL_AGENT","DUREE_APPEL","Numero_Telephone","ID_AGENT 1","ID_AGENT 2","NOM_QUALIFICATION","NOM_QUALIFICATION_DETAILLEE","NOM_AGENT","NOM_CAMPAGNE","SOUS_CAMPAGNE","NUMERO_COURT","RACCROCHAGE","COMMENTAIRE"
+2025-09-15,"13:14:48","423503125","1","2","369","386952309","1494","1494","","P2P","RAKOTOARITIANA Gabrinah","IVR_TELMA_807","Q_TELMA_807_MG","0810","0","0386952309"
+2025-09-15,"13:14:48","423503126","1","1","199","342463322","1497","1497","","P2P","RAMIANDRINANDRASANA Nico Christiano","IVR_TELMA_807","Q_TELMA_807_MG","0810","0","342463322"
+2025-09-15,"13:15:12","423503157","3","17","10","349843648","1579","1579","Polluant","","RAZAFIMANANTSOA  Heritiana Mickael","IVR_TELMA_803","Q_TELMA_803","0803","0",""
+2025-09-15,"13:15:20","423503166","4","129","233","unavailable","1969","1969","QUALIFIE","","RANAIVOSON Ando Lalaina Prisca","IVR_ONLY_900_MAY","Q_ONLY_900_MAY","0901","0",""
+2025-09-15,"13:15:25","423503169","1","5","3","386529617","1965","1965","Polluant","","ZAFISOMA  Fredin","PDGY_644","Q_PGDY_644","0330","1",""
+2025-09-15,"13:15:27","423503174","1","42","203","342337777","1903","1903","","P2P","ROGER AÏCHA Jovanika","IVR_TELMA_807","Q_TELMA_807_FR","0807","0","342337777"
+2025-09-15,"13:15:27","423503175","1","6","4","385306760","1962","1962","Polluant","","HERINANTENAINA  Françoise Stanela","PRODIGY_633","FILE_PRDGY_633_MG","0935","1",""
+2025-09-15,"13:15:36","423503195","1","4","3","anonymous","1965","1965","Polluant","","ZAFISOMA  Fredin","PDGY_644","Q_PGDY_644","0330","1",""
+2025-09-15,"13:15:37","423503196","1","1","311","346270090","1788","1788","OUVERTURE DE COMPTE MVOLA","Motif de rejet certification","RAZAFINDRAVAO  Clémentine","IVR_TELMA_807","Q_TELMA_807_MG","0810","0","Prénom de l'appelant:Mr SOLOFONIRINA
+MSISDN appelant:0346270090
+MSISDN concerné:0346270090
+Raison d'appel:retrait ko
+Contexte:1er appel
+Analyse:Non identifié,Infos manquantes
+Traitement/Solution apporté:client incité à renvoyer sa demande
+Traité par "
+2025-09-15,"13:15:38","423503201","3","3","13","388413627","1355","1355","Polluant","","IRISOA MASINJORO  MARIE CURI","PAM_930","Q_PAM_930(Resp)","0931","0",""
+2025-09-15,"13:15:42","423503204","2","16","15","386659927","1283","1283","Polluant","","RAMBOLATIANA Tiavina Eulalie","PAM_930","Q_PAM_930(Resp)","0931","1",""
