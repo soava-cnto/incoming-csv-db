@@ -13,3 +13,5 @@ DB_CONFIG = {
 }
 
 TABLE_NAME = os.getenv("TABLE_NAME", "call_logs")
+
+VIEW_NAME = os.environ.get("VIEW_NAME", "v_incoming_reiteration")

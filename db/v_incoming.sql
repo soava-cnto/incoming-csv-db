@@ -3,7 +3,10 @@ DROP VIEW IF EXISTS v_incoming_reiteration;
 CREATE VIEW v_incoming_reiteration AS
 SELECT
     incoming_id,
-    semaine,
+    CASE
+        WHEN semaine < 10 THEN CAST (CONCAT('Sem-0', CAST(semaine AS TEXT)) AS TEXT)
+        ELSE CAST (CONCAT('Sem-', CAST(semaine AS TEXT)) AS TEXT)
+    END AS semaine,
     datetime_appel,
     date_appel,
     heure_appel,
@@ -135,4 +138,4 @@ SELECT
 FROM
     public.incoming_logs
 WHERE
-    nom_campagne NOT LIKE '%CRCM%';
+    nom_campagne NOT LIKE '%CRCM%' ;
