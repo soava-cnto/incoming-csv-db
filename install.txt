@@ -3,3 +3,19 @@ Installer dépendances
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install pandas sqlalchemy psycopg2-binary python-dotenv
+
+--------------
+gitignore
+
+Pourquoi le dossier est-il ajouté malgré la présence dans .gitignore ?
+Si le dossier est déjà suivi par Git avant l'ajout à .gitignore, il continuera à être versionné
+Vous devez explicitement demander à Git d'ignorer ce dossier même s'il est déjà suivi
+
+# Arrêter de suivre le dossier existant
+git rm -r --cached __pycache__
+
+# Commiter les changements
+git commit -m "Arrêt du suivi de __pycache__"
+
+# Vérifier que le dossier n'est plus suivi
+git status

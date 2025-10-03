@@ -214,3 +214,4 @@ __pycache__/
 .env
 .pytest_cache/
 .selenium/
+__pycache__
